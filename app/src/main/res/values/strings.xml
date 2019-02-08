@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhatsAppMirror</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">vtWz6QvUfOg9JzYZMX85mI1TZXXs4hchfMO3g4B4</string>
+    <string name="back4app_client_key">cfJV1yE5So9QWLswgTjF5l6DN9kOMOUoCFnWKMXj</string>
+
+</resources>
